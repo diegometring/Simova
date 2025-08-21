@@ -1,6 +1,6 @@
-package com.example.Simova.Repository;
+package com.example.Simova.repository;
 
-import com.example.Simova.Entity.User;
+import com.example.Simova.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

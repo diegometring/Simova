@@ -1,4 +1,4 @@
-package com.example.Simova.Entity;
+package com.example.Simova.entity;
 
 import jakarta.persistence.*;
 import java.io.Serializable;
